@@ -1,2 +1,1 @@
-# Data-Collector-App
-I designed Data Collector as a graphic tool for gathering company data. When activated on a machine, users can input data through the interface and retrieve the information in a CSV file within the same directory.
+Greetings, I'm Tamim Dostyar, a Computer Science major enrolled in the Class of 2027 at Luther College. My academic journey centers on the dynamic realms of coding, where I specialize in crafting, developing, and troubleshooting program codes. Proficient in Python and Java, I find joy in unraveling the complexities of software development. Always on the lookout for exciting projects to apply my skills and continuously refine my programming prowess. In this app, you can find website and software codes.
